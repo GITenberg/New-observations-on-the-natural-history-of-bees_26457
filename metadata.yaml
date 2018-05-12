@@ -1,0 +1,46 @@
+_repo: New-observations-on-the-natural-history-of-bees_26457
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huber, François
+    aliases:
+    - Huber, Francis
+    - Huber, Francois
+    birthdate: 1750
+    deathdate: 1831
+    gutenberg_agent_id: '32029'
+    url: http://www.gutenberg.org/2009/agents/32029
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Huber
+description: '"The facts contained in this volume are deeply interesting to the naturalist.
+  They not only elucidate the history of those industrious animals whose properties
+  are the peculiar subject of investigation, but they present some new and singular
+  features in physiology, which have hitherto been unknown, and even unsuspected.
+  The industry of bees has proved a fertile source of admiration in all countries,
+  and in every age, and mankind have unremittingly endeavoured to render it subservient
+  either to their gratifications or emolument. Hence, innumerable theories, experiments,
+  and observations have ensued, and uncommon patience has been displayed in prosecuting
+  the enquiry. But although many interesting peculiarities have been discovered, they
+  are so unaccountably interwoven with errors, that no subject has given birth to
+  more absurdities than investigations into the history of bees; and unfortunately
+  those treatises which are the most easily attained, and at this day, the most popular,
+  only serve to give them a wider range, and to render it infinitely more difficult
+  for the philosophic naturalist to eradicate them. A considerable portion of the
+  following work is devoted to this purpose; and it belongs to the reader to judge
+  of the success which has resulted from the experiments that have been employed"--Préface.'
+gutenberg_bookshelf: Animals-Wild-Insects
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26457'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Bees'
+title: New observations on the natural history of bees
+url: http://www.gutenberg.org/ebooks/26457
